@@ -3,8 +3,10 @@
 ![Badge em Finalizado](http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=GREEN&style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![Badge whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Badge linkdin](https://www.linkedin.com/in/diego-schell-fernandes/)
-
+![Badge gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Badge linkdin](<a href="https://www.linkedin.com/in/georgine-danilo" alt="linkedin" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+</a>
 ### Project that features an animated card.
 #### Here, we only use HTML and CSS
 ![responsiveCard](https://github.com/dnlMatos/cardResponsive/blob/main/ezgif.com-gif-maker%20(2).gif)
