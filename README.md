@@ -1,4 +1,4 @@
-# Responsive Card:computer:
+# Effect Card:computer:
 
 ### Project that features an animated and responsive card.
 #### Here, we only use HTML and CSS
