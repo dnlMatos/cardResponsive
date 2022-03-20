@@ -9,8 +9,9 @@
 
 ### Project that features an animated card.
 #### Here, we only use HTML and CSS
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
 ![responsiveCard](https://github.com/dnlMatos/cardResponsive/blob/main/ezgif.com-gif-maker%20(2).gif)
+![![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
+
 
 ### Would you like to test the code?:white_check_mark:
 https://dnlmatos-effectcard.netlify.app/
