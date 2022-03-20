@@ -12,10 +12,7 @@
 ### Project that features an animated card.
 #### Here, we only use HTML and CSS
 ![responsiveCard](https://github.com/dnlMatos/cardResponsive/blob/main/ezgif.com-gif-maker%20(2).gif)
-<div>  
-  <a href="https://github.com/dnlMatos">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnlMatos&layout=compact&langs_count=7&theme=default"/>  
-</div>
+
 
 ### Would you like to test the code?:white_check_mark:
 https://dnlmatos-effectcard.netlify.app/
