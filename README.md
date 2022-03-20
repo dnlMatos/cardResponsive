@@ -1,6 +1,6 @@
 # Effect Card:computer:
 
-![Badge em Finalizado](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADOcolor=GREEN&style=for-the-badge)
+![Badge em Finalizado](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
 
 ### Project that features an animated card.
 #### Here, we only use HTML and CSS
