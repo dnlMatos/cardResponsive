@@ -3,7 +3,7 @@
 ![Badge em Finalizado](http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=GREEN&style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![Badge whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Badge linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Badge linkdin](https://www.linkedin.com/in/diego-schell-fernandes/)
 
 ### Project that features an animated card.
 #### Here, we only use HTML and CSS
